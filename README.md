@@ -23,7 +23,7 @@
 <img src="./job5_2.png"/>
 <img src="./job5_3.png"/>
 8. Отправить ссылку на репозиторий с ролью и Declarative Pipeline и Scripted Pipeline.  
-[Scripted_Pipeline](./ScriptedJenkinsfilene)
+[Scripted_Pipeline](ScriptedJenkinsfilene)
 
 
 
