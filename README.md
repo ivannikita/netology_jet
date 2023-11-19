@@ -17,10 +17,10 @@
 <img src="./job4_1.png"/>
 <img src="./job4_2.png"/>
 <img src="./job4_3.png"/>
-5. Создать Scripted Pipeline, наполнить его скриптом из [pipeline](https://github.com/ivannikita/netology_jet/pipeline).
+5. Создать Scripted Pipeline, наполнить его скриптом из https://github.com/ivannikita/netology_jet/blob/main/pipeline.
 6. Внести необходимые изменения, чтобы Pipeline запускал `ansible-playbook` без флагов `--check --diff`, если не установлен параметр при запуске джобы (prod_run = True). По умолчанию параметр имеет значение False и запускает прогон с флагами `--check --diff`.
 <img src="./job5_1.png"/>
 <img src="./job5_2.png"/>
 <img src="./job5_3.png"/>
 8. Отправить ссылку на репозиторий с ролью и Declarative Pipeline и Scripted Pipeline.  
-[Scripted_Pipeline](https://github.com/ivannikita/netology_jet/ScriptedJenkinsfilene)
+https://github.com/ivannikita/netology_jet/blob/main/ScriptedJenkinsfilene
